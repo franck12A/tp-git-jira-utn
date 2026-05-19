@@ -1,1 +1,10 @@
+# Python
+__pycache__/
+*.pyc
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de datos pesados
+*.csv
+*.xlsx
